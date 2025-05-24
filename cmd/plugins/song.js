@@ -56,7 +56,7 @@ const processSong = async (chatId, name, api, replyToMessageId) => {
     const replyMarkup = {
       reply_markup: {
         inline_keyboard: [
-          [{ text: 'Bot Owner', url: 'https://t.me/MOHAMMADNAYAN' }],
+          [{ text: 'Bot Owner', url: 'https://t.me/Arafatas602' }],
         ],
       },
     };
